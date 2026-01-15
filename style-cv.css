@@ -85,8 +85,9 @@ a{
   text-decoration: none;
 }
 a:hover{
-     background-color: grey;
-     color: red;
+     color:red;
      font-size: 23px;
      padding: 8px;
+      background-color:grey;
+
  }
