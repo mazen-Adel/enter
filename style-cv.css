@@ -81,8 +81,8 @@
      border-radius: 90px;
  }
  h2{     color: var(--primary-color);
-}a{color: var(--text-color) ;
-text-decoration: none;
-
-
 }
+a{color: orangered ;
+text-decoration: none;
+}
+a:hover{background-color: yellow;color:red; font-size:25px;}
