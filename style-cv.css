@@ -84,7 +84,7 @@ a{
  color: orangered ;
   text-decoration: none;
 }
-a:hover {
+a:hover{
      background-color: grey;
      color: red;
      font-size: 23px;
